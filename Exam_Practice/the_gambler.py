@@ -52,3 +52,4 @@ while command != "end":
 
 print(f"End of the game. Total amount: {money}$")
 [print("".join(x)) for x in matrix]
+
