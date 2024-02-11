@@ -19,8 +19,4 @@ def softuni_students(*data, **student_info):
     return my_print
 
 
-print(softuni_students(
-    ('id_1', 'Kaloyan9905'),
-    id_1='Python Web Framework',
-))
 
