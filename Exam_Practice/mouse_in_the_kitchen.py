@@ -61,3 +61,4 @@ if total_cheese and command == "danger":
     print("Mouse will come back later!")
 
 [print(''.join(x)) for x in matrix]
+
